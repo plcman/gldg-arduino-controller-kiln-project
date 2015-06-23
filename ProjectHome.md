@@ -1,0 +1,1 @@
+This project will create an open source interface for controlling and monitoring glassblowing kiln's digital controllers for use in PC applications using the Arduino Controller as the basis for the project.
